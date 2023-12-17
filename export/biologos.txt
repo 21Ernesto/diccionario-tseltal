@@ -1,0 +1,23 @@
+\cargo Botánica
+\nombre Mario Ishiki Ishihara (ECOSUR: El Colegio de la Frontera Sur)
+
+\cargo Entomología
+\nombre Benigno Gómez, Remy Vandame (ECOSUR)
+
+\cargo Geología y petrología
+\nombre Juan José Peral Lozano
+
+\cargo Herpetología
+\nombre Luis Antonio Muñoz Alonso (ECOSUR)
+
+\cargo Ictiología
+\nombre Alfonso González Díaz, Rocío Rodiles Hernández (ECOSUR)
+
+\cargo Mastozoología
+\nombre Jorge Bolaños Citalán (ECOSUR)
+
+\cargo Micología
+\nombre William García Santiago
+
+\cargo Ornitología
+\nombre Luis Guillermo Mena Domínguez

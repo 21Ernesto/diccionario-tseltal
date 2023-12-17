@@ -1,0 +1,7 @@
+/* styles.css */
+
+/* Aplica estilos de Tailwind CSS a los elementos dentro del editor Quill */
+.ql-editor {
+    @apply text-base text-gray-700 p-4; /* Ejemplo de estilos de Tailwind */
+}
+/* ... más estilos de Tailwind según tus necesidades ... */

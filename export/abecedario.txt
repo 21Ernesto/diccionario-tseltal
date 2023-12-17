@@ -1,0 +1,82 @@
+\letra a
+\comilla '
+
+\letra b
+\comilla '
+
+\letra ch
+\comilla
+
+\letra ch'
+\comilla '
+
+\letra e
+\comilla '
+
+\letra g
+\comilla '
+
+\letra h
+\comilla '
+
+\letra i
+\comilla '
+
+\letra j
+\comilla '
+
+\letra k
+\comilla
+
+\letra k'
+\comilla '
+
+\letra l
+\comilla '
+
+\letra m
+\comilla '
+
+\letra n
+\comilla '
+
+\letra o
+\comilla '
+
+\letra p
+\comilla
+
+\letra p'
+\comilla '
+
+\letra r
+\comilla '
+
+\letra s
+\comilla '
+
+\letra t
+\comilla
+
+\letra t'
+\comilla '
+
+\letra ts
+\comilla
+
+\letra ts'
+\comilla '
+
+\letra u
+\comilla '
+
+\letra w
+\comilla '
+
+\letra x
+\comilla '
+
+\letra y
+\comilla '
+
+

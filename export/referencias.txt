@@ -1,0 +1,342 @@
+\refid R001
+\author Barragán, Felipe, Oscar G. Retama y Eduardo J. Naranjo
+\year 2007
+\title “The Rodent Trade of Tzeltal Indians of Oxchuc, Chiapas, Mexico”
+\pub Human Ecology 35, pp. 769–773
+\nt { R001 |Barragán et al. 2007}
+
+\refid R002
+\author Berlin, Brent, Dennis E. Breedlove y Peter H. Raven
+\year 1974
+\title Principles of Tzeltal Plant Classification. An Introduction to the Botanical Ethnography of a Mayan-Speaking People of Highland Chiapas
+\pub New York/London: Academic Press
+\nt { R002 |Berlin et al. 1974}
+
+\refid R003
+\author Hunn, Eugene S
+\year 1977
+\title Tzeltal folk zoology. The classification of Discontinuities in Nature
+\pub New York: Academic Press
+\nt { R003 |Hunn 1977}
+
+\refid R004
+\author Berlin, Elois Ann y Brent Berlin
+\year 1996
+\title Medical Ethnobiology of the Highland Maya of Chiapas, Mexico
+\pub Princeton: Princeton University Press
+\nt { R004 |Berlin y Berlin 1996}
+
+\refid R005
+\author García Santiago, William
+\year 2014
+\title Hongos silvestres comestibles: su papel en los esquemas alimentarios de los pobladores de Oxchuc Chiapas, México
+\pub MA diss., ECOSUR
+\nt { R005 |García Santiago 2014}
+
+\refid R006
+\author López Gómez, José Alfonso
+\year 2011
+\title Usos y factores socioculturales en el consumo del chanulte’ en Oxchuc, Chiapas
+\pub BA diss., UNICH
+\nt { R006 |López Gómez 2011}
+
+\refid R007
+\author Pennington, Terence D. y José Sarukhán
+\year 2005
+\title Arboles tropicales de México. Manual para la identificación de las principales especies, 3a edición
+\pub Mexico: UNAM, FCE
+\nt { R007 |Pennington y Sarukhán 2005}
+
+\refid R008
+\author Robles Lucia, Graciela Huerta, Rene H. Andrade y Hugo M. Ángeles
+\year 2005
+\title “Conocimiento tradicional sobre los macromicetos en dos comunidades tseltales de Oxchuc, Chiapas, México”
+\pub Etnobiología 5, pp. 21-35
+\nt { R008 |Robles Lucia et al. 2005}
+
+\refid R009
+\author Sántiz Girón, Antonia
+\year 2010
+\title Documentación de rezos en la fiesta del Tajimal K’in (carnaval) de Tenejapa: análisis lingüístico y lexicográfico
+\pub BA diss., UNACH
+\nt { R009 |Sántiz Girón 2010}
+
+\refid R010
+\author Shepard Jr., Glenn H., David Arora y Aaron Lampman
+\year 2008
+\title “The Grace of the Flood: Classification and Use of Wild Mushrooms among the Highland Maya of Chiapas”
+\pub Economic Botany 62(3), pp. 437-470
+\nt { R010 |Shepard Jr. et al. 2008}
+
+\refid R011
+\author Slocum, Marianna, Florencia Gerdel y Manuel Cruz Aguilar
+\year 1999
+\title Diccionario tzeltal de Bachajón, Chiapas
+\pub Serie de vocabularios y diccionarios indígenas "Mariano Silva y Aceves" n° 40, Mexico: Instituto Lingüístico de Verano
+\nt { R011 |Slocum et al. 1999}
+
+\refid R012
+\author Kaufman, Terrence
+\year 2003
+\title A preliminary Mayan etymological dictionary
+\pub unpublished manuscript
+\nt { R012 |Kaufman 2003}
+
+\refid R013
+\author de Ara, Fray Domingo
+\year 1571 [1981]
+\title de lengua tzeldal según el orden de Copanabastla
+\pub edited by Mario Humberto Ruz, Mexico City: UNAM
+\nt { R013 |de Ara 1571 [1981]} &
+
+\refid R014
+\author Polian, Gilles
+\year 2013a
+\title Gramática del tseltal de Oxchuc
+\pub Mexico City: CIESAS
+\nt { R014 |Polian 2013a} &
+
+\refid R015
+\author Polian, Gilles
+\year 2013b
+\title Infinitivos transitivos: innovaciones del tseltal en la familia maya
+\pub in Ensayos de sintaxis en lenguas de Mesoamérica, eds. Roberto Zavala and Enrique Palancar, pp. 339-380. Mexico City: CIESAS
+\nt { R015 |Polian 2013b} &
+
+\refid R016
+\author Berlin, Brent y Terrence Kaufman
+\year 1977
+\title Diccionario Tzeltal de Tenejapa, Chiapas
+\pub Microfilm Collection of Manuscripts on Cultural Anthropology, Series LIII, 281, Chicago: University of Chicago Library
+\nt { R016 |Berlin y Kaufman 1977} &
+
+\refid R017
+\author Shklovsky, Kirill
+\year 2012
+\title Tseltal Clause Structure
+\pub PhD dissertation, Massachusetts Institute of Technology
+\nt { R017 |Shklovsky 2012} &
+
+\refid R018
+\author Polian, Gilles
+\year 2007
+\title El sufijo modal -uk en tseltal
+\pub in Proceedings of the Conference on Indigenous Languages of Latin America-III, University of Texas at Austin, www.ailla.utexas.org/site/cilla3_toc.html
+\nt { R018 |Polian 2007} &
+
+\refid R019
+\author Polian, Gilles, Eladio Mateo Toledo y Telma Can Pixabaj
+\year 2015
+\title Construcciones destinativas en lenguas mayas
+\pub Amerindia 37, pp. 159-188
+\nt { R019 |Polian et al. 2015} &
+
+\refid R020
+\author Hopkins, Nicholas
+\year 1970
+\title Estudio preliminar de los dialectos del tzeltal y del tzotzil
+\pub in Ensayos de antropología en la zona central de Chiapas, eds. Norman McQuown and Julian Pitt-Rivers, pp. 185-214. Mexico City: Instituto Nacional Indigenista
+\nt { R020 |Hopkins 1970} &
+
+\refid R021
+\author Kaufman, Terrence
+\year 1972
+\title El proto-tzeltal-tzotzil: fonología comparada y diccionario reconstruido
+\pub Mexico City: Centro de Estudios Mayas, UNAM
+\nt { R021 |Kaufman 1972} &
+
+\refid R022
+\author Campbell, Lyle
+\year 1987
+\title Tzeltal dialects: new and old
+\pub Anthropological Linguistics 29, pp. 549-70
+\nt { R022 |Campbell 1987} &
+
+\refid R023
+\author Campbell, Lyle
+\year 1988
+\title The linguistics of Southeast Chiapas, Mexico
+\pub Provo: Brigham Young University
+\nt { R023 |Campbell 1988} &
+
+\refid R024
+\author Robertson, John
+\year 1987
+\title The common beginning and evolution of the Tense-Aspect system of Tzotzil and Tzeltal Mayan
+\pub International Journal of American Linguistics 53, pp. 432-444
+\nt { R024 |Robertson 1987} &
+
+\refid R025
+\author Robertson, John
+\year 1992
+\title The History of Tense/Aspect/Mood/Voice in the Mayan Verbal Complex
+\pub Austin: University of Texas Press
+\nt { R025 |Robertson 1992} &
+
+\refid R026
+\author Polian, Gilles y Jean-Léo Léonard
+\year 2009
+\title La morphologie dans ALTO (Atlas Linguistique du Tseltal Occidental): Réseau dialectal et systèmes à décideurs multiples
+\pub Géolinguistique 11, pp. 149-201
+\nt { R026 |Polian y Léonard 2009} &
+
+\refid R027
+\author Brown, Penelope
+\year 1998
+\title Children's first verbs in Tzeltal: evidence for an early verb category
+\pub Linguistics 36, pp. 713-153
+\nt { R027 |Brown 1998} &
+
+\refid R028
+\author Brown, Penelope
+\year 1991
+\title Spatial conceptualization in Tzeltal
+\pub Nijmegen: Cognitive Anthropology Research Group, Max Planck Institute for Psycholinguistics
+\nt { R028 |Brown 1991} &
+
+\refid R029
+\author Brown, Penelope
+\year 1994
+\title The INs and ONs of Tzeltal locative expressions: the semantics of static descriptions of location
+\pub Linguistics 32, pp. 743–790
+\nt { R029 |Brown 1994} &
+
+\refid R030
+\author Brown, Penelope
+\year 2006
+\title A sketch of the grammar of space in Tzeltal
+\pub In Grammars of Space, eds. Stephen Levinson and David P. Wilkins, pp. 230-272. Cambridge: Cambridge University Press
+\nt { R030 |Brown 2006} &
+
+\refid R031
+\author Levinson, Stephen
+\year 1994
+\title Vision, shape and linguistic description: Tzeltal body-part terminology and object description
+\pub Linguistics 32, pp. 791-856
+\nt { R031 |Levinson 1994} &
+
+\refid R032
+\author Brown, Penelope y Stephen Levinson
+\year 1992
+\title ‘Left’ and ‘right’ in Tenejapa: Investigating a linguistic and conceptual gap
+\pub Zeitschrift für Phonetik, Sprachwissenschaft und Kommunikationsforschung 45, pp. 590-611.
+\nt { R032 |Brown y Levinson 1992} &
+
+\refid R033
+\author Brown, Penelope y Stephen Levinson
+\year 1993
+\title ‘Uphill’ and ‘downhill’ in Tzeltal
+\pub Journal of Linguistic Anthropology 3, pp. 46-74
+\nt { R033 |Brown y Levinson 1993} &
+
+\refid R034
+\author Polian, Gilles y Jürgen Bohnemeyer
+\year 2011
+\title Uniformity and variation in Tseltal reference frame use
+\pub Language Sciences 33, pp. 868–891
+\nt { R034 |Polian y Bohnemeyer 2011} &
+
+\refid R035
+\author Brown, Penelope & Levinson, Stephen C
+\year n.d.
+\title Working dictionary of Tenejapan Tzeltal, incorporating an earlier field dictionary by O. Brent Berlin, Terrence Kaufman, and Luisa Maffi (1990)
+\pub
+\nt { R035 |Brown y Levinson n.d.} &
+
+\refid R036
+\author Zapata Guzmán, Alfredo
+\year 2002
+\title Vocabulario tseltal-español
+\pub Mexico: Servicios Educativos para Chiapas
+\nt { R036 |Zapata Guzmán 2002} &
+
+\refid R037
+\author Torres Sánchez, Diego, Alfredo Zapata Guzmán y Felipa Pérez López
+\year 2007
+\title Swejteseji'bal k'op yu'un tseltal
+\pub Tuxtla: Secretaría de Educación
+\nt { R037 |Torres Sánchez et al. 2007} &
+
+\refid R038
+\author Sántiz Gómez, Roberto
+\year 2010
+\title Raíces posicionales en tseltal de Oxchuc
+\pub MA Dissertation, Mexico City: CIESAS
+\nt { R038 |Sántiz Gómez 2010} &
+
+\refid R039
+\author Pérez González, Jaime
+\year 2012
+\title Predicados expresivos e ideófonos en tseltal
+\pub MA Dissertation, Mexico City: CIESAS
+\nt { R039 |Pérez González 2012} &
+
+\refid R040
+\author Laughlin, Robert M
+\year 1975
+\title The Great Tzotzil Dictionary of San Lorenzo Zinacantán
+\pub Washington D.C: Smithsonian Institution Press
+\nt { R040 |Laughlin 1975} &
+
+\refid R041
+\author Berlin, Brent
+\year 1968
+\title Tzeltal Numeral Classifiers: A Study in Ethnographic Semantics
+\pub The Hague: Janua Linguarum, Mouton
+\nt { R041 |Berlin 1968} &
+
+\refid R042
+\author Berlin, Elois Ann
+\year 2000
+\title Manual Etnomédico de Oxchuc. Guía básica y herbolaria. / Stalel sk'op ya'yejal bit'il ta pasel wamal poxil ta Oxchujk'
+\pub San Cristóbal de Las Casas: ECOSUR
+\nt { R042 |Berlin 2000} &
+
+\refid R043
+\author Instituto Nacional de Lenguas Indígenas
+\year 2010
+\title Normalización de la escritura de la lengua Tseltal Bats'il k'op / Stojobtesibal TS'ibajel ta Bats'il k'op Tseltal
+\pub Mexico City: INALI
+\nt { R043 |Instituto Nacional de Lenguas Indígenas 2010} &
+
+\refid R044
+\author Kaufman, Terrence
+\year 1971
+\title Tzeltal Phonology and Morphology
+\pub Berkeley/Los Angeles/London: University of California Press
+\nt { R044 |Kaufman 1971} &
+
+\refid R045
+\author Campbell, Lyle
+\year 2017
+\title Mayan history and comparison
+\pub in The Mayan Languages, eds. Judith Aissen, Nora C. England and Roberto Zavala Maldonado, pp. 43-61. Routledge.
+\nt { R045 |Campbell 2017} &
+
+\refid R046
+\author Wälchli, Bernhard
+\year 2005
+\title Co-Compounds and Natural Coordination
+\pub Oxford: Oxford University Press
+\nt { R046 |Wälchli 2005} &
+
+\refid R047
+\author Gómez López, Tomás
+\year 2017
+\title diccionario del tseltal de Villa Las Rosas
+\pub PhD. Dissertation, Mexico City: CIESAS
+\nt { R047 |Gómez López 2017} &
+
+\refid R048
+\author López-Gómez, José Alfonso, Ramón Marariaca Méndez, Laura Huicochea Gómez, Benigno Gómez y Gómez y Eraldo Medeiros Costa-Neto
+\year 2017
+\title Entomofauna de importancia cultural en una comunidad maya-tseltal de Chiapas, México
+\pub estudios de cultura maya vol. 50, pp. 183-218
+\nt { R048 |López-Gómez et al. 2017}
+
+\refid R049
+\author Aulie, H. Wilbur y Evelyn W. de Aulie
+\year 1978
+\title diccionario ch'ol de Tumbalá, Chiapas, con variaciones dialectales de Tila y Sabanilla
+\pub México: Instituto Lingüístico de Verano
+\nt { R049 |Aulie y Aulie 1978}

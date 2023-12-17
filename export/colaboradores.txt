@@ -1,0 +1,56 @@
+\nombre Aguilar Méndez, Sebastián	Lexicografía general;
+\referencia Recopilación/corrección para Guaquitepec
+
+\nombre Cruz Gómez, Ángela Lorena
+\referencia Recopilación/corrección para Yajalón
+
+\nombre Cruz Méndez, Oscar Gregorio	Lexicografía general;
+\referencia Recopilación/corrección para Petalcingo
+
+\nombre Gómez López, Tomás	Lexicografía general;
+\referencia Recopilación/corrección para Villa Las Rosas
+
+\nombre Gómez Pérez, Alberto
+\referencia Recopilación/corrección para Petalcingo
+
+\nombre Gómez Sánchez, María de Jesús
+\referencia Recopilación/corrección para Oxchuc
+
+\nombre Gutiérrez Gómez, Alberto
+\referencia Recopilación/corrección para Bachajón
+
+\nombre López Gómez, Catalina
+\referencia Recopilación/corrección para Amatenango
+
+\nombre López Intzín, Juan (Xuno)	Lexicografía general;
+\referencia Recopilación/corrección para Tenejapa
+
+\nombre Malaret, Luis
+\referencia Recolección e identificación de especies de animales y plantas
+
+\nombre Méndez Girón, Juan
+\referencia Recopilación/corrección para Tenejapa
+
+\nombre Méndez Sánchez, José Antonio
+\referencia Edición de audios
+
+\nombre Métairie, Christian
+\referencia Diseño de programas informáticos para el manejo de la base de datos
+
+\nombre Pérez González, Jaime	Lexicografía general;
+\referencia Recopilación/corrección para Tenango y Petalcingo
+
+\nombre Polian, Nicole
+\referencia Diseño de programas informáticos para el manejo de la base de datos
+
+\nombre Sántiz Girón, Antonia
+\referencia Recopilación/corrección para Tenejapa
+
+\nombre Sántiz Gómez, Roberto
+\referencia Recopilación/corrección para Oxchuc
+
+\nombre Silvano Jiménez, Miguel	Lexicografía general;
+\referencia Recopilación/corrección para Bachajón
+
+\nombre Vázquez Castellanos, Manuel
+\referencia Recopilación/corrección para Cancuc
